@@ -24,4 +24,15 @@ For speech-related functionalities, additional installations may be required:
 pip install pydub SpeechRecognition
 apt-get install -y python3-pyaudio
 ```
+### Contribution:
+
+Contributions to this project are welcome! If you have ideas for improving the chatbot's functionality, adding new features, or enhancing its performance, feel free to submit a pull request.
+
+### Author:
+
+Deekshith B
+
+### License:
+
+This project is licensed under the [MIT License](LICENSE).
 
