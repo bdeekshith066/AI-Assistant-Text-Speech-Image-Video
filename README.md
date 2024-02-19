@@ -40,9 +40,7 @@ Download required models:
 !aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/kabachuha/modelscope-damo-text2video-pruned-weights/raw/main/configuration.json -d /content/models -o configuration.json
 ```
 Set configuration for GPU mode:
-```bash
-!sed -i -e 's/\"tiny_gpu\": 1/\"tiny_gpu\": 0/g' /content/models/configuration.json
-```
+
 
 ### Contribution:
 
