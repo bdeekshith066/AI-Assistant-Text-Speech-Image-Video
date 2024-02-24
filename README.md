@@ -46,9 +46,8 @@ Set configuration for GPU mode:
 
 Contributions to this project are welcome! If you have ideas for improving the chatbot's functionality, adding new features, or enhancing its performance, feel free to submit a pull request.
 
-### Author:
-
-Deekshith B
+## Author
+- [Deekshith B](https://www.linkedin.com/in/deekshith2912/)
 
 ### License:
 
